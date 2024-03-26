@@ -98,7 +98,7 @@ background: linear-gradient(to top, rgba(199, 199, 199, 0.19) 0, rgba(255, 255, 
     border-radius: 0px;
   }
   .search-form .nav.nav-pills {
-    border: 1px solid #0069bf;
+    /* border: 1px solid #0069bf; */
     border-radius: none;
   }
 

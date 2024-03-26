@@ -884,7 +884,7 @@ a.search-Wrapper {
     bottom: 0;
     display: block;
     margin: auto !important;
-    padding: 20px 0 0;
+    /* padding: 20px 0 0; */
     position: relative;
     transition: transform 1s;
 }
